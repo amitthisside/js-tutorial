@@ -18,6 +18,8 @@ symbol => unique
 object
 */
 
-console.log(typeof name);
-console.log(typeof undefined);
-console.log(typeof null)
+// console.log(typeof age);
+// console.log(typeof undefined);
+// console.log(typeof null)
+
+console.table([typeof age, typeof undefined, typeof null])
