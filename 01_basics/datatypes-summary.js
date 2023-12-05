@@ -21,3 +21,10 @@ const myFun = function() {
 console.log(typeof rappers);
 console.log(typeof myObj);
 console.log(typeof myFun);
+
+
+//*****************************Memory*********************************
+
+//Primitive => Stack
+//Non-Primitive => Heap
+
